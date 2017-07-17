@@ -1,2 +1,3 @@
-# ztree_experiments
-A collection of Busara ztree experiments
+# Welcome to the zTree Hub!
+
+![slider](images/template/slider.jpg)
